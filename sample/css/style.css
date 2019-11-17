@@ -1,0 +1,45 @@
+body {
+	background: #f1fffa;
+	margin: 0px;
+}
+#wrapper {
+	width: 1120px;
+	margin: 0 auto;
+	border: 1px solid #0c5d3a;
+}
+header {
+	background: url('../images/header-digital-marketing1.png') no-repeat;
+	height: 130px;
+}
+nav {
+	background: #1a707d;
+	padding: 2px;
+	font-size: 18px;
+}
+nav ul li {
+	display: inline-block;
+	padding-right: 30px; 
+}
+nav ul li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+nav ul li a.active {
+	color: #d7ff66;
+}
+nav ul li a:hover {
+	color: #d7ff66;
+}
+section#content {
+	padding: 20px;
+}
+footer {
+	background: #1a707d;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px;
+}
+.center {
+	margin: 0 auto;
+	text-align: center;
+}
